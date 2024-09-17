@@ -1,0 +1,80 @@
+.Ana{
+
+    background: #9583B6;
+
+    padding: none;
+}
+
+h1{
+
+    color: white;
+
+    font-size: 350%;
+
+    font-family: 'Times New Roman', Times, serif;
+
+    font-weight: 800;
+
+    font-style: oblique;
+
+    text-align: center;
+
+}
+h2{
+
+    color: white;
+
+    font-size: 250%;
+
+    font-family: 'Times New Roman', Times, serif;
+
+    font-weight: 800;
+
+    font-style: oblique;
+
+    text-align: left;   
+
+}
+p{
+
+    color: white;
+
+    font-size: 170%;
+
+    font-family: 'Times New Roman', Times, serif;
+
+    font-weight: 400;
+
+    font-style: oblique;
+
+    text-align: left;
+
+    text-align: justify;
+
+    line-height: 150%;
+
+    
+
+}
+.img{
+
+    height: 20%;
+
+    width: 30%;
+        
+}
+a{
+
+    font-family: 'Times New Roman', Times, serif;
+
+    text-align: left;
+
+    font-size: 170%;
+
+    color: white;
+
+}
+div{
+
+    
+}
